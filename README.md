@@ -1,2 +1,4 @@
-api-docs
-========
+API Documentation
+=================
+
+Integrates with Apiary
